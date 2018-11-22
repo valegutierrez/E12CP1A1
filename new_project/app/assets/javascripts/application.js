@@ -11,7 +11,7 @@
 // about supported directives.
 //
 //= require jquery-1.11.1.min
-//= require bootstrap.min
+//= require bootstrap
 //= require jquery.backstretch.min
 //= require wow.min
 //= require retina-1.1.0.min
